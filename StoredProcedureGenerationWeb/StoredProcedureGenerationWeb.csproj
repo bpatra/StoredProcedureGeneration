@@ -113,7 +113,6 @@
   <ItemGroup>
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
-    <Content Include="storedProcedureBuilder.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -121,7 +120,7 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="documentdb-server.d.ts" />
-    <TypeScriptCompile Include="myStoredprocedure.ts" />
+    <TypeScriptCompile Include="myStoredProcedure.ts" />
     <TypeScriptCompile Include="Utilitary.ts" />
   </ItemGroup>
   <ItemGroup>

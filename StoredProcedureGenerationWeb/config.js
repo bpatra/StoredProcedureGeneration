@@ -1,5 +1,5 @@
 ﻿System.config({
-    baseURL: "/",
+    baseURL: "/out-js",
     defaultJSExtensions: true,
     transpiler: false,
     paths: {}
