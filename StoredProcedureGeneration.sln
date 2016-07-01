@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoredProcedureGeneration", "StoredProcedureGeneration\StoredProcedureGeneration.csproj", "{6CDF87AE-8973-49F6-A7B2-6C2BAA70E3DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoredProcedureGenerationWeb", "StoredProcedureGenerationWeb\StoredProcedureGenerationWeb.csproj", "{9B87D8AF-C09C-4C51-A3E4-67C4C901F4AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CDF87AE-8973-49F6-A7B2-6C2BAA70E3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDF87AE-8973-49F6-A7B2-6C2BAA70E3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDF87AE-8973-49F6-A7B2-6C2BAA70E3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDF87AE-8973-49F6-A7B2-6C2BAA70E3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B87D8AF-C09C-4C51-A3E4-67C4C901F4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B87D8AF-C09C-4C51-A3E4-67C4C901F4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B87D8AF-C09C-4C51-A3E4-67C4C901F4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B87D8AF-C09C-4C51-A3E4-67C4C901F4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
