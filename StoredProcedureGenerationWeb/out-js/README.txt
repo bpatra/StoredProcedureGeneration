@@ -1,0 +1,1 @@
+﻿In this folder you will find the generated temporary javascript files
