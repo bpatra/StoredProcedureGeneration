@@ -1,0 +1,20 @@
+{
+  "name": "storedproceduregeneration",
+  "version": "1.0.0",
+  "description": "Small example on how to generate documentdb storedprocedure with typescript and systemJs",
+  "main": "documentdb_storedprocedure_builder.js",
+  "dependencies": {
+    "systemjs-builder": "^0.15.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "systemJS",
+    "DocumentDB",
+    "typescript"
+  ],
+  "author": "Benoit Patra",
+  "license": "ISC"
+}
