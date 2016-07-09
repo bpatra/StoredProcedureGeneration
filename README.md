@@ -1,5 +1,7 @@
 ### Code sample for building well architectured StoredProcedure for DocumentDB with Typescript and SystemJs.
 
+This repository is a sample of what is presented in this [blog post](http://benoitpatra.com/2016/07/09/programming-well-structured-javascript-stored-procedures-for-documentdb-with-typescript-and-systemjs/)
+
 How to generate stored procedure in this sample.
 
 - Make sure Node.js is installed and node is in the environment variable $PATH.
